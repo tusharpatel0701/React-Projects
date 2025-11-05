@@ -7,9 +7,8 @@
 
 ---
 
-## 🌐 Live Demo  
-🔗 **[Job Dashboard.png](#)**  
-*(Replace with your actual deployment link — e.g., Vercel, Netlify, or GitHub Pages)*  
+## 🖼️ Project Preview  
+![Job Openings Dashboard](https://github.com/tusharpatel0701/React-Projects/blob/7310064d3e4722cd1e16d9d776309de484e9d3e5/Job%20Dashboard.png)
 
 ---
 
