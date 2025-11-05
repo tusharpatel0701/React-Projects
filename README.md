@@ -7,11 +7,6 @@
 
 ---
 
-## 🖼️ Project Preview  
-![Job Openings Dashboard](https://github.com/tusharpatel0701/React-Projects/blob/7310064d3e4722cd1e16d9d776309de484e9d3e5/Job%20Dashboard.png)
-
----
-
 ## 🎯 Project Objective  
 **Job Openings Dashboard** is a modern **React-based job listing platform** designed to display **open positions at top tech companies** such as Google, Amazon, Apple, Microsoft, Tesla, Netflix, and more.  
 
@@ -38,6 +33,13 @@ This project highlights strong concepts of **component-based UI development**, *
 - **Language:** JavaScript (ES6+)  
 - **Backend:** — *(Frontend-only project)*  
 - **Data Source:** Static Array of Job Objects  
+
+---
+
+
+## 🖼️ Project Preview  
+![Job Openings Dashboard](https://github.com/tusharpatel0701/React-Projects/blob/7310064d3e4722cd1e16d9d776309de484e9d3e5/Job%20Dashboard.png)
+
 
 ---
 
